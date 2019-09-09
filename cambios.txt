@@ -1,0 +1,2 @@
+En esta practica se estudio los coandos de git:
+git init,git add,git commit,git status,git clone,git log,git branch,git checkout,git push,git pull.
